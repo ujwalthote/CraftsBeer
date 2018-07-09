@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crafts Beer</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Cart</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="beer">Beer</string>
+    <string name="error_occurred">Error occurred</string>
+</resources>
